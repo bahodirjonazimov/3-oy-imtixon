@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+body {
+    height: 100%;
+    flex-direction: column;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 62.5%;
+    line-height: 24px;
+}
+
+.site-header {
+    background-color: #ffffff;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+
+/*  blog-4 start */
+
+.blog-4 {
+    background-color: #f67e7e;
+    color: #012f34;
+    height: 200px;
+}
+
+.container {}
+
+.blog-4__img {}
+
+.blog-4__texts {
+    font-family: "Livvic";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-right: 260px;
+    margin-left: 250px;
+}
+
+.blog-4__div {
+    display: flex;
+    padding-top: 76px;
+    background-image: url(../images/red-and-blue-disk.svg);
+    background-repeat: no-repeat;
+}
+
+.blog-4__btn {
+    padding: 9px 33px 11px 32px;
+    border-radius: 24px;
+    border: 2px solid #000000;
+    background-color: #f67e7e;
+    color: #012f34;
+    font-family: "Fraunces";
+    font-size: 18px;
+    font-weight: 900;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+}
+
+.button__a {
+    color: #000000;
+}
+
+.blog-4__btn:hover {
+    background-color: #66d2cf;
+    color: #ffffff;
+    border: 1px solid #66d2cf;
+}

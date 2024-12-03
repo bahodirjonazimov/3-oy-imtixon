@@ -1,0 +1,123 @@
+.contact__blog {
+    display: flex;
+}
+
+.blog__left {}
+
+.left__text {
+    font-family: "Livvic";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 100px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-top: 120px;
+}
+
+.red__texts {
+    font-family: "Livvic";
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #f67e7e;
+    margin-top: 16px;
+}
+
+.left__list {}
+
+.file {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-top: 32px;
+}
+
+.lefts__network {
+    font-family: "Livvic";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.file__icon {
+    margin-right: 22px;
+}
+
+.blog__right {
+    padding-top: 120px;
+    padding-left: 32px;
+}
+
+.form-content {
+    width: 100%;
+    max-width: 540px;
+    align-items: center;
+}
+
+.claim {
+    width: 460px;
+}
+
+.form-content__label {}
+
+.form-content__input1 {
+    width: 540px;
+    height: 42px;
+    margin-top: 120px;
+    margin-left: 40px;
+    background-color: #014e56;
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+}
+
+.form-content__input2 {
+    width: 540px;
+    height: 42px;
+    margin-left: 40px;
+    background-color: #014e56;
+    margin-top: 24px;
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+}
+
+.form-content__input3 {
+    width: 540px;
+    height: 42px;
+    margin-top: 24px;
+    margin-left: 40px;
+    background-color: #014e56;
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+}
+
+.form-content__input4 {
+    width: 540px;
+    height: 42px;
+    margin-top: 24px;
+    margin-left: 40px;
+    background-color: #014e56;
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+}
+
+.form-content__input5 {
+    width: 540px;
+    height: 84px;
+    margin-top: 24px;
+    margin-left: 40px;
+    background-color: #014e56;
+    border: 0;
+    border-bottom: 2px solid;
+    outline: 0;
+}

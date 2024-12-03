@@ -1,0 +1,268 @@
+.header__list-2 {
+    display: flex;
+}
+
+.list-2__text {
+    font-family: "Livvic";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 100px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-top: 120px;
+    padding-right: 30px;
+    width: 350px;
+}
+
+.list-2__right {
+    padding-top: 120px;
+}
+
+.list-2__right__img {}
+
+.list-2__right-texts {
+    font-family: "Livvic";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 730px;
+    padding-top: 40px;
+}
+
+.red__disk {
+    margin-left: 1100px;
+}
+
+.main {}
+
+.about__box-1 {
+    grid-column: 1 /2;
+    grid-row: 1 / 2;
+    text-align: center;
+    text-align: center;
+}
+
+.box-1__disk-img {
+    margin-right: 1140px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+
+.about-1__text {
+    font-family: "Livvic";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-bottom: 64px;
+}
+
+.about__blog {}
+
+.blog-box-1 {}
+
+.green__text {}
+
+.blog-box-2 {
+    grid-column: 2 /3;
+    grid-row: 1 / 2;
+    text-align: center;
+    text-align: center;
+}
+
+.blog-box-3 {
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+    text-align: center;
+    text-align: center;
+}
+
+.blog-box-4 {
+    grid-column: 1 /2;
+    grid-row: 2 / 3;
+    text-align: center;
+    text-align: center;
+}
+
+.blog-box-5 {
+    grid-column: 2 /3;
+    grid-row: 2 / 3;
+    text-align: center;
+    text-align: center;
+}
+
+.blog-box-6 {
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
+    text-align: center;
+    text-align: center;
+}
+
+.about__man-img {
+    width: 96px;
+    height: 96px;
+    left: 103px;
+    gap: 0px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    margin-top: 32px;
+    margin-left: 127px;
+    margin-right: 127px;
+    margin-bottom: 16px;
+}
+
+.main {}
+
+.about__box-1 {
+    background-color: #004047;
+    color: #ffffff;
+}
+
+.container {}
+
+.about-1__text {}
+
+.grid-container {}
+
+.name__text {
+    font-family: "Livvic";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #79c8c7;
+}
+
+.about-box__text {
+    font-family: "Livvic";
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-bottom: 56px;
+}
+
+.plus {
+    margin-bottom: -30px;
+}
+
+.blog-box-1 {
+    background-color: #012f34;
+}
+
+.blog-box-2 {
+    background-color: #012f34;
+}
+
+.blog-box-3 {
+    background-color: #012f34;
+}
+
+.blog-box-4 {
+    background-color: #012f34;
+}
+
+.blog-box-5 {
+    background-color: #012f34;
+}
+
+.blog-box-6 {
+    background-color: #012f34;
+}
+
+.box-6__text {
+    font-family: "Livvic";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #79c8c7;
+    margin-top: 35px;
+}
+
+.box-6__texts {
+    font-family: "Livvic";
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-top: 8px;
+    padding-right: 48px;
+    padding-left: 48px;
+    padding-bottom: 24px;
+}
+
+.box-6__icon-div {}
+
+.x {
+    margin-bottom: -100px;
+}
+
+.directors-disk {
+    margin-left: 1100px;
+    margin-top: -800px;
+}
+
+
+/* box-2 */
+
+.about-box-2 {
+    background-color: #012f34;
+}
+
+.container {}
+
+.clients {
+    font-family: "Livvic";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #ffffff;
+}
+
+.box-2__images {
+    display: flex;
+    padding-bottom: 151px;
+    padding-top: 70px;
+}
+
+.image__img1 {
+    margin-right: 80px;
+}
+
+.image__img2 {
+    margin-right: 79px;
+}
+
+.image__img3 {
+    margin-right: 80px;
+}
+
+.image__img4 {
+    margin-right: 79px;
+}
+
+.image__img5 {}

@@ -1,0 +1,256 @@
+.main__blog-1 {
+    display: flex;
+    margin-top: 129px;
+    padding-right: 30px;
+}
+
+.blog-1__h1 {
+    font-family: "Livvic";
+    font-size: 100px;
+    font-weight: 700;
+    line-height: 100px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 550px;
+}
+
+.blog-1__img-1 {
+    margin-left: -200px;
+    padding-right: 65px;
+}
+
+.blog-1__img-1 {
+    width: 200px;
+    height: 200px;
+    top: 250px;
+    left: 100px;
+    gap: 0px;
+    opacity: 0px;
+    angle: -180 deg;
+}
+
+.main__blog-2 {}
+
+.blog-1-list {
+    display: flex;
+}
+
+.blog-2__chiziq {
+    padding-top: 129px;
+}
+
+.blog-2__text {
+    font-family: "Livvic";
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-top: 79px;
+    width: 445px;
+    height: 112px;
+    top: 83px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.disk-red-img {
+    padding-top: 500px;
+}
+
+
+/* box-1 start */
+
+.main-con {
+    background-color: #012f34;
+}
+
+.box-1 {
+    display: flex;
+    color: #ffffff;
+}
+
+.red-chiziq {
+    margin-right: 165px;
+    margin-top: 140px;
+}
+
+.box-1__text {
+    font-family: "Livvic";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 445px;
+    margin-top: 54px;
+}
+
+.icon-1 {
+    padding-right: 22px;
+}
+
+.icon-2 {
+    padding-right: 22px;
+}
+
+.icon-3 {
+    padding-right: 22px;
+}
+
+.main__list-1 {
+    width: 540px;
+    padding-top: 198px;
+    display: flex;
+}
+
+.main__list-2 {
+    width: 540px;
+    display: flex;
+    padding-top: 32px;
+}
+
+.main__list-3 {
+    width: 540px;
+    display: flex;
+    padding-top: 32px;
+    padding-bottom: 140px;
+}
+
+.box-2__red {
+    font-family: "Livvic";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #f67e7e;
+}
+
+.box-2__text {
+    font-family: "Livvic";
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 445px;
+    padding-top: 16px;
+}
+
+
+/* 
+.box-1__disk {
+    margin-right: 1340px;
+} */
+
+
+/* BLOG-3 START */
+
+.blog-3 {
+    background-color: #004047;
+    color: #ffffff;
+}
+
+.container {}
+
+.blog-3__disk-left {
+    padding-bottom: 40px;
+    padding-right: 1800px;
+}
+
+.blog-3__list-1 {}
+
+.blog-3__texts {
+    font-family: "Livvic";
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+.blog-3__list-2 {
+    display: flex;
+    padding-top: 92px;
+}
+
+.fayl__texts {
+    font-family: "Livvic";
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 25px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    width: 350px;
+}
+
+.green__text {
+    font-family: "Livvic";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #79c8c7;
+    padding-top: 24px;
+}
+
+.neme__text {
+    font-family: "Livvic";
+    font-size: 13px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    padding-top: 2px;
+}
+
+.list-2__fayl-1 {
+    background-image: url(../images/bacround-icon-1.svg);
+    background-repeat: no-repeat;
+    padding-right: 30px;
+}
+
+.list-2__fayl-2 {
+    background-image: url(../images/bacround-icon-1.svg);
+    background-repeat: no-repeat;
+    padding-right: 30px;
+}
+
+.list-2__fayl-3 {
+    background-image: url(../images/bacround-icon-1.svg);
+    background-repeat: no-repeat;
+    padding-right: 30px;
+}
+
+.fayl-1__img {
+    padding-top: 32px;
+    margin-left: 150px;
+}
+
+.fayl-2__img {
+    margin-left: 150px;
+    padding-top: 32px;
+}
+
+.fayl-3__img {
+    margin-left: 150px;
+    padding-top: 32px;
+}
+
+.blog-3__disk {
+    margin-left: 1050px;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
